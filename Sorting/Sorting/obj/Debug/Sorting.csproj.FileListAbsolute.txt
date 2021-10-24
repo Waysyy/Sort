@@ -1,0 +1,12 @@
+D:\Users\ntart\source\repos\Sorting\Sorting\bin\Debug\Sorting.exe.config
+D:\Users\ntart\source\repos\Sorting\Sorting\bin\Debug\Sorting.exe
+D:\Users\ntart\source\repos\Sorting\Sorting\bin\Debug\Sorting.pdb
+D:\Users\ntart\source\repos\Sorting\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
+D:\Users\ntart\source\repos\Sorting\Sorting\obj\Debug\Sorting.Form1.resources
+D:\Users\ntart\source\repos\Sorting\Sorting\obj\Debug\Sorting.Form2.resources
+D:\Users\ntart\source\repos\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+D:\Users\ntart\source\repos\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.cache
+D:\Users\ntart\source\repos\Sorting\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+D:\Users\ntart\source\repos\Sorting\Sorting\obj\Debug\Sorting.exe
+D:\Users\ntart\source\repos\Sorting\Sorting\obj\Debug\Sorting.pdb
+D:\Users\ntart\source\repos\Sorting\Sorting\obj\Debug\Sorting.Form3.resources
